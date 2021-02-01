@@ -1,6 +1,3 @@
-def getHawkIDs():
-    return["jalonso"]
-
 
 #this algorithm will subtract values a and b from each other
 
